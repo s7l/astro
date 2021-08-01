@@ -7,7 +7,7 @@ getgenv().runService = game:GetService"RunService"
 		getgenv().library:Unload()
 	end
 
-	local library = {tabs = {}, draggable = true, flags = {}, title = "fartware", open = false, mousestate = inputService.MouseIconEnabled, popup = nil, instances = {}, connections = {}, options = {}, notifications = {}, tabSize = 0, theme = {}, foldername = "fw_configs1", fileext = ".fw"}
+	local library = {tabs = {}, draggable = true, flags = {}, title = "astro", open = false, mousestate = inputService.MouseIconEnabled, popup = nil, instances = {}, connections = {}, options = {}, notifications = {}, tabSize = 0, theme = {}, foldername = "fw_configs1", fileext = ".fw"}
 	getgenv().library = library
 
 	--Locals
